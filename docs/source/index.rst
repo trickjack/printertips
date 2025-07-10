@@ -90,8 +90,6 @@ If your printer has no screen or WPS button.
 4. Select your WiFi network and enter the password.
 5. Once connected, disconnect the USB cable.
 
-`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     **[+1-801-878-6858 USA]**
-
 Common Problems When Connecting Canon Printer to WiFi
 -----------------------------------------------------
 
