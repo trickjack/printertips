@@ -37,8 +37,6 @@ This is the easiest way if your router supports **WPS (Wi-Fi Protected Setup)**.
 3. Within 2 minutes, press the **WPS button** on your WiFi router.
 4. Wait until the printer’s WiFi light stops blinking and stays solid.
 
-*Note: Not all routers have a WPS button. If yours doesn’t, use the standard or mobile setup method.*
-
 Method 2: Connect Using Canon IJ Setup (Standard Setup)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
