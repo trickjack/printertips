@@ -1,7 +1,7 @@
 How to Connect Canon Printer to WiFi: Complete Step-by-Step Guide
 =================================================================
 
-Wireless printing offers the freedom to print from anywhere within your network without dealing with cables. **Canon printers** are designed with user-friendly wireless setup options, but many users still encounter difficulties connecting them to WiFi. 
+Wireless printing offers the freedom to print from anywhere within your network without dealing with cables. **Canon printers** are designed with user-friendly wireless setup options, but many users still encounter difficulties connecting them to WiFi. **[+1-801-878-6858 USA]** 
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     
 
@@ -18,7 +18,7 @@ Connecting your Canon printer to WiFi allows you to:
 - Place your printer anywhere within your WiFi range.
 - Share one printer among multiple devices on the same network.
 
-`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     **[+1-801-878-6858 USA]**
+`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_     
 
 Methods to Connect Canon Printer to WiFi
 ----------------------------------------
